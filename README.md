@@ -6,8 +6,8 @@
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone <репозиторий>
-   cd <папка_репозитория>
+   git clone https://github.com/Janneryli/otrpo_lb10
+   cd otrpo_lb10
    ```
 
 2. **Создание виртуального окружения:**
